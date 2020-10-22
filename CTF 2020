@@ -1,0 +1,55 @@
+CTF 2020
+
+PASSO A PASSO 
+
+1) Mostrar print com enderço IP e o eth0
+
+colocar senha ( IP da maquina ) em um arquivo que cintem uma dica
+
+dica = comando do explain shelll 
+
+flag 1 { su criptografado em MD5}
+
+2) acessar explain shell.com e colocar a dica + o significado da flag 
+descriptografada em MD5 na pesquisar 
+
+3) A dica  tem um numero apresentado no site explain  coloque a 
+
+senha em no arquivo comandolinux.rar no seguinte formato:
+
+( numero da dica = sudo >> 8 e numero do comnado su >> 1  )
+
+4 ) um arquvio formulario.html é disponibilizado, no arquivo contem 
+a flag 2, criptografada em MD5
+
+5) utilize a informação da flag 2 + dica de filme para encontrar a senha do
+ Matrix.rar
+
+flag 3 {MD5} 
+
+6) utilize a informação da flag 3 para preencher  o campo do formulario.
+
+ 7 ) flag 3  + informação do formulário é a senha do arquivo interstellar 
+
+ 8) ao descompactar o arquivo interstellar  preencha o formulario quanto
+tempo se passou na terra, quando o astronauta foi para o planeta desconehcido
+
+informação da dica < converta essa informação em MD5>
+
+coloque a informação  MD5 no campo compartimento nave 
+
+descompacte o arquivo destino.rar com a informação MD5
+
+um arquivo destino.txt é disponibilidao nele tem a seguinte dica defina sua 
+rota de origem codificando a informação a seguir 
+
+flag 4 { Parabéns, pela Determinação agora
+         quando você chegar na terra 
+         precisamos agendar um dia para o Professor 
+         te pagar aquele sorvete }
+
+coloque aqui a informação descriptografada < >
+
+
+
+
